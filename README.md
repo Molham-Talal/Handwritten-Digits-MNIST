@@ -1,2 +1,2 @@
 # Handwritten-Digits-MNIST
-Keras model using MNIST dataset 
+A very simple Keras model trained on handwritten digits of the MNIST dataset 
